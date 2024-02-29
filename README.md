@@ -5,6 +5,7 @@ ini halaman utama untuk melihat foto yang telah terupload
 ![image](https://github.com/rahulajimi/website-galeri-foto/assets/161693355/7e63a90e-4810-44cd-8c99-59d90998e5e2)
 ini halaman untuk mengupload,mengedit,dan menghapus foto
 ![image](https://github.com/rahulajimi/website-galeri-foto/assets/161693355/97772efc-f6c7-49cb-9335-6ccf1ce68f23)
+dan ini halaman untuk membuat akun dan masuk bagi yang sudah membuat akun
 ![image](https://github.com/rahulajimi/website-galeri-foto/assets/161693355/7c8a58c9-da53-4493-b56e-475cbbb1c659)
 
 
